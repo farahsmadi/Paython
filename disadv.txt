@@ -1,0 +1,14 @@
+When actual decisions are made, the payoffs and resulting decisions may not be the same as those you've planned for. It may be impossible to plan for all contingencies that can arise as a result of a decision. This can lead to an unrealistic decision tree that could guide you toward a bad decision. Also, unexpected events may alter decisions and change the payoffs in a decision tree.
+Complexity
+Among the major decision tree disadvantages are its complexity. Decision trees are easy to use compared to other decision-making models, but preparing decision trees, especially large ones with many branches, are complex and time-consuming affairs.
+
+Computing probabilities of different possible branches, determining the best split of each node, and selecting optimal combining weights to prune algorithms contained in the decision tree are complicated tasks that require much expertise and experience.
+
+Decision trees moreover, examine only a single field at a time, leading to rectangular classification boxes. This may not correspond well with the actual distribution of records in the decision space.
+
+Unwieldy
+Decision trees, while providing easy to view illustrations, can also be unwieldy. Even data that is perfectly divided into classes and uses only simple threshold tests may require a large decision tree. Large trees are not intelligible, and pose presentation difficulties.
+
+Drawing decision trees manually usually require several re-draws owing to space constraints at some sections, as there is no foolproof way to predict the number of branches or spears that emit from decisions or sub-decisions.
+new ideas don't get much consideration.There is a tendency with trees to only consider paths that have been successful in the past, thus stultifying thought about changing situations.The trees are usually over-simple, not branched enough, and little consideration given to the "thickness" (value and probability) of each branch.
+The disadvantages of decision trees are that it is sometimes hard to predict the exact ways a decision will affect you because you may not have enough data to make accurate predictions about the future. In addition, you might be too optimistic or unrealistic to predict the future branches of a decision tree accurately. 
